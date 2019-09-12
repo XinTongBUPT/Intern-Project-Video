@@ -1,6 +1,6 @@
 # Intern-Project-Video
 OOBE video
-Cannot share codes due to the privacy statement, but since it's a project with
+Cannot share codes due to the privacy statement, but since it's a project with over a million registered product users worldwide, I'll just share a simple demo of the react prototype finished by myself during the internship. 
 
 # What I did?
 •	Move the existing OOBE Service from JQuery to React.js, constructed frontend with React.js, Redux and gulp.
@@ -10,9 +10,6 @@ Cannot share codes due to the privacy statement, but since it's a project with
 •	Improve the batch insert time of redemption 100,000 codes from 2 days to 45 second in Sku Central Server(Node.js)
 
 # Out of the Box experience (OOBE) application；
-
-With over a million registered product users worldwide using it that provides best in class user experience. 
-
 Provides various features for the end user who has purchased a Seagate product by providing:
 
 1. Product Registration
