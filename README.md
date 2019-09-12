@@ -4,10 +4,15 @@ Cannot share codes due to the privacy statement, but since it's a project with o
 
 # What I did?
 •	Move the existing OOBE Service from JQuery to React.js, constructed frontend with React.js, Redux and gulp.
+
 •	Finished Breadcrub navigation and page transition animation, manually realized all the transition animation effect.
+
 •	Used middleware Redux-thunk to deal with complex synchronous and asynchronous request like Ajax request. 
+
 •	Finished the international locale function, and solved network connection problems through adding proxy;
+
 •	Improve the batch insert time of redemption 100,000 codes from 2 days to 45 second in Sku Central Server(Node.js)
+
 
 # Out of the Box experience (OOBE) application；
 Provides various features for the end user who has purchased a Seagate product by providing:
