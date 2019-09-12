@@ -15,11 +15,11 @@ Cannot share codes due to the privacy statement, but since it's a project with o
 
 
 # Out of the Box experience (OOBE) application；
-Provides various features for the end user who has purchased a Seagate product by providing:
+Provides various features for the end user who has purchased a product by providing:
 
 1. Product Registration
 2. Software Download Specific to the Product, and OS
-3. Link to Seagate Knowledge Base Articles
+3. Link to Knowledge Base Articles
 4. Redeeming Product Offers if any etc. 
 
 # Move it from JQuery to React.js
